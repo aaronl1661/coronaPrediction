@@ -17,6 +17,8 @@ Part B- Identify Effective Measures for Slowing COVID-19 Spread
 
 	Step 3: Prediction Model of future cases if selected measures are used in selected region
 
+Note- growth rates are % of population
+
 Step 5: Add in political data ?
 Step 6:
 Step *: Use Neural Networks to predict models
